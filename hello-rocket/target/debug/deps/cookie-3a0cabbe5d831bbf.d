@@ -1,0 +1,12 @@
+/Users/damian/Desktop/rust_project/hello-rocket/target/debug/deps/cookie-3a0cabbe5d831bbf.rmeta: /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/lib.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/builder.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/parse.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/jar.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/delta.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/draft.rs
+
+/Users/damian/Desktop/rust_project/hello-rocket/target/debug/deps/libcookie-3a0cabbe5d831bbf.rlib: /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/lib.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/builder.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/parse.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/jar.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/delta.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/draft.rs
+
+/Users/damian/Desktop/rust_project/hello-rocket/target/debug/deps/cookie-3a0cabbe5d831bbf.d: /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/lib.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/builder.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/parse.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/jar.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/delta.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/draft.rs
+
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/lib.rs:
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/builder.rs:
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/parse.rs:
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/jar.rs:
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/delta.rs:
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.4/src/draft.rs:

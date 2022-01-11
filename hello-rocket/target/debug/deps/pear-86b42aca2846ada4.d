@@ -1,0 +1,13 @@
+/Users/damian/Desktop/rust_project/hello-rocket/target/debug/deps/pear-86b42aca2846ada4.rmeta: /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/Users/damian/Desktop/rust_project/hello-rocket/target/debug/deps/libpear-86b42aca2846ada4.rlib: /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/Users/damian/Desktop/rust_project/hello-rocket/target/debug/deps/pear-86b42aca2846ada4.d: /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs:
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs:
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs:
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs:
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs:
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs:
+/Users/damian/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs:
